@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm Diya Rawat
 
-<!--
-**Diya010/Diya010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Pursuing *BCA* with a passion for *AI, Data Science, and Software Development*
+- 🐍 Learning *Python* for Data Science and Machine Learning
+- 🎯 Open to *internships* in AI & Software Development
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- *Programming Languages:* Python, JavaScript, C++
+- *AI & Data Science:* Pandas, NumPy
+- *Web Development:* HTML, CSS
+- *Databases:* MySQL 
+- *Version Control:* Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](#) -https://www.linkedin.com/in/diya-rawat-1489b7315
+ 📧 Email: diya.rawat010@gmail.com
+
+
+
